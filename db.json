@@ -1,0 +1,23 @@
+{
+    "education": [
+        {
+            "school": "Georgia Tech",
+            "graduationDate": "12-2015",
+            "degree": "Computer Science",
+            "type": "Bachlors"
+        },
+        {
+            "school": "Georgia Tech",
+            "graduationDate":"12-2017",
+            "degree": "Computer Science",
+            "type":"Masters"
+        }
+    ],
+    "experience": [
+        {
+            "company":"Boeing",
+            "startDate": "05-2015"
+        }
+    ]
+
+}
