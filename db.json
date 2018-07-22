@@ -1,23 +1,22 @@
 {
-    "education": [
+    "work": [
         {
-            "school": "Georgia Tech",
-            "graduationDate": "12-2015",
-            "degree": "Computer Science",
-            "type": "Bachlors"
+            "company": "Boeing, Charleston SC",
+            "title": "Programmer Analyst",
+            "years": "December 2015 - Present",
+            "description": "Programmed and designed a complex common platform architecture to accommodate MES systemic differences while optimizing future development by abstracting common functions. Programmed web application’s UI/UX using modern frameworks such as ReactJS and Material-UI with complex user interactions, high-data refresh rate, and data visualization. Programmed 12 factor, microservice, cloud solutions in .NET, Python, and NodeJS via Pivotal Cloud Foundry (PCF) that enable real-time data lookup, statistical analysis and usage tracking. "
         },
         {
-            "school": "Georgia Tech",
-            "graduationDate":"12-2017",
-            "degree": "Computer Science",
-            "type":"Masters"
-        }
-    ],
-    "experience": [
+            "company": "Boeing, Charleston SC",
+            "title": "Programmer Analyst Intern",
+            "years": "May 2015 - August 2015",
+            "description": " Programmed a .NET WinRT app for Windows 8 that followed an MVVM design pattern with offline/online sync feature that replaced an inefficient and unprofessional customer facing, archaic, paper process with an elegant mobile app to capture customer identified defects. Responsible for performing user interviews and programming new application features based on the received feedback. Delivered a user-centered, feature-rich app update to production. "
+        },
         {
-            "company":"Boeing",
-            "startDate": "05-2015"
+            "company": "RememberOneAnother, Atlanta GA",
+            "title": "Software Developer Intern",
+            "years": "May 2014 - August 2014",
+            "description": " Programmed a feature-rich, web application using Google Web Toolkit SDK, Java, JavaScript, HTML, CSS, AJAX, with Google and Facebook OAuth API integrations for login and sharing. Responsible for architecting, developing, refactoring, optimizing, debugging, testing, and deploying the ROA web app. Resulted in delivery of features & performance optimizations."
         }
     ]
-
 }
